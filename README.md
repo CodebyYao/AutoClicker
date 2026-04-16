@@ -22,7 +22,7 @@ python real_time_complier.py
 ### 1. Enter the script name you want to alter or execute, and press submit.
 <img src="assets/script_name.png" alt="Enter Script">
 
-### 2. Add component by clicking on the element on the sidebar.
+### 2. Add component by clicking on the element on the sidebar. Alter their sequence by dragging them around.
 <img src="assets/script_sidebar.png" alt="Click side bar">
 
 ### 3. Edit the components' attributes by clicking on the elements and hitting update.
