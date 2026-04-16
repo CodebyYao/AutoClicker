@@ -1,0 +1,26 @@
+[
+  {
+    "component": "loop_s",
+    "id": "1",
+    "end": 3
+  },
+  {
+    "component": "click",
+    "id": "2",
+    "speed": 0.001,
+    "time_out": 5.0,
+    "double_click": false,
+    "conf": 0.7
+  },
+  {
+    "component": "pause",
+    "id": "3",
+    "pause_time": 1.0
+  },
+  {
+    "component": "loop_e",
+    "id": "1",
+    "goto": 0,
+    "times": 5
+  }
+]
